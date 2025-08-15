@@ -1,10 +1,12 @@
+```json
 {
   "name": "simple-logging-library",
   "version": "1.0.0",
   "description": "A lightweight and easy-to-use logging library aimed at maximizing code simplicity and clarity in error tracking.",
   "main": "index.js",
   "scripts": {},
-  "author": "",
+  "author": "Your Name <your.email@example.com>",
   "license": "MIT",
   "dependencies": {}
 }
+```
