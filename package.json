@@ -4,8 +4,10 @@
   "description": "A lightweight and easy-to-use logging library aimed at maximizing code simplicity and clarity in error tracking.",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Running tests...'",
-    "build": "echo 'Building the library...'"
+    "test": "echo 'Running tests...",
+    "build": "echo 'Building the library...",
+    "lint": "eslint .",
+    "watch": "nodemon index.js"
   },
   "author": "Your Name <your.email@example.com>",
   "license": "MIT",
